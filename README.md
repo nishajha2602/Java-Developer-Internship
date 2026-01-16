@@ -1,2 +1,3 @@
 # Java-Developer-Internship
-Task 1
+Task 1 completed
+Task 2 completed
