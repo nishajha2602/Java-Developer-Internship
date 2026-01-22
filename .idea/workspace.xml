@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a7686e7-e45f-4ce1-a58c-a31a4ca6c689" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Elevate Labs/src/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Elevate Labs/src/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/Task1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Elevate Labs/Task1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Elevate Labs/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Elevate Labs/src/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elevate Labs/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Elevate Labs/src/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +35,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Task3.executor": "Debug",
+    "Application.task1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "onboarding.tips.debug.path": "C:/Users/Raunak jha/IdeaProjects/Java-Developer-Internship/Elevate Labs/Task2/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Raunak jha/IdeaProjects/Java-Developer-Internship/Elevate Labs/Task2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.task1">
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
+      <module name="Task1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1" />
+      <module name="Task1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.Task3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a7686e7-e45f-4ce1-a58c-a31a4ca6c689" name="Changes" comment="" />

@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Task3 {
 
         // Method to validate marks
@@ -99,6 +100,6 @@ public class Task3 {
 
             sc.close();
         }
-    }
-
 }
+
+
